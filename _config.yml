@@ -1,3 +1,8 @@
+title: "Linda Kniewasser Web-Site"
+description: "Medien-Suche mit APIs"
+giphy_key: "vB10lByq4f6rGWkf0Lrq4GbDI0hTeixl"
+apileague_key: "de9efa49ed6f44f5a2bf7983b2123de5"
+
 # Where things are
 source              : .
 destination         : ./_site
