@@ -2,6 +2,13 @@
 layout: base
 ---
  {% include nav.html %}
+
+<nav class="row" style="margin-bottom: 15px;">
+  <a href="{{ "/" | relative_url }}">Start</a>
+  <a href="{{ "/about" | relative_url }}">Über mich</a>
+  <a href="{{ "/media" | relative_url }}">Medien</a>
+</nav>
+
 <main>
   {{ content }}
 </main>
